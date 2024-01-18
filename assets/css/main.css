@@ -1,0 +1,14 @@
+*{
+
+padding: 0;   
+margin: 0; 
+box-sizing: border-box;
+}
+
+
+html{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #f4f7f9;
+}
+
+
